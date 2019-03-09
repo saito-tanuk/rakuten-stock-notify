@@ -1,0 +1,24 @@
+{
+  "name": "rakuten-stock-notify",
+  "version": "1.0.0",
+  "description": "Notify rakuten stock",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0",
+    "nedb-promise": "^2.0.1"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/rakuten-stock-notify"
+  },
+  "license": "MIT",
+  "keywords": [
+    "notification"
+  ]
+}
